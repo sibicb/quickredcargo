@@ -9,31 +9,31 @@
 	    <meta name="author" content="">
 
 	    <title>QUICK RED CARGO LINK, INC.</title>
-	    <link href="<?php echo base_url('assets/css/bootstrap.min.css');?>" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
 	    <!-- Flaticon CSS -->
-	    <link href="<?php  base_url("assets/fonts/flaticon/flaticon.css");?>" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/fonts/flaticon/flaticon.css" rel="stylesheet">
 	    <!-- font-awesome CSS -->
 	    <link href="<?php  base_url();?>assets/css/font-awesome.min.css" rel="stylesheet">
 	    <!-- Offcanvas CSS -->
-	    <link href="<?php echo base_url('assets/css/hippo-off-canvas.css');?>" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/css/hippo-off-canvas.css" rel="stylesheet">
 	    <!-- animate CSS -->
-	    <link href="<?php echo base_url('assets/css/animate.css');?>" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/css/animate.css" rel="stylesheet">
 	    <!-- language CSS -->
-	    <link href="<?php echo base_url('assets/css/language-select.css');?>" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/css/language-select.css" rel="stylesheet">
 	    <!-- owl.carousel CSS -->
-	    <link href="<?php echo base_url('assets/owl.carousel/assets/owl.carousel.css');?>" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/owl.carousel/assets/owl.carousel.css" rel="stylesheet">
 			<!-- magnific-popup -->
-    	<link href="<?php echo base_url('assets/css/magnific-popup.css');?>" rel="stylesheet">
+    	<link href="<?php  base_url();?>assets/css/magnific-popup.css" rel="stylesheet">
     	<!-- Main menu -->
-    	<link href="<?php echo base_url('assets/css/menu.css');?>" rel="stylesheet">
+    	<link href="<?php  base_url();?>assets/css/menu.css" rel="stylesheet">
     	<!-- Template Common Styles -->
-    	<link href="<?php echo base_url('assets/css/template.css');?>" rel="stylesheet">
+    	<link href="<?php  base_url();?>assets/css/template.css" rel="stylesheet">
 	    <!-- Custom CSS -->
-	    <link href="<?php echo base_url('assets/css/style.css');?>" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/css/style.css" rel="stylesheet">
 	    <!-- Responsive CSS -->
-	    <link href="<?php echo base_url('assets/css/responsive.css');?>" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/css/responsive.css" rel="stylesheet">
 
-      <script src="<?php echo base_url('assets/js/vendor/modernizr-2.8.1.min.js');?>"></script>
+      <script src="<?php  base_url();?>assets/js/vendor/modernizr-2.8.1.min.js"></script>
 	    
 	    <!-- HTML5 Shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -102,7 +102,7 @@
 							<div class="container mainnav">
 								<div class="navbar-header">
 									<h1 class="logo">
-									<!-- <a class="navbar-brand" href="index.html"><img src="<?php echo base_url('assets/img/logo.png');?>" alt=""></a> --></h1>
+									<!-- <a class="navbar-brand" href="index.html"><img src="<?php  base_url();?>assets/img/logo.png" alt=""></a> --></h1>
 
 									<!-- offcanvas-trigger -->
 			                        <button type="button" class="navbar-toggle collapsed pull-right" >
@@ -271,7 +271,7 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
-                                <img src="<?php echo base_url("assets/img/slider/slide-1.jpg");?>" alt="Hero Slide">
+                                <img src="<?php  base_url();?>assets/img/slider/slide-1.jpg" alt="Hero Slide">
                                 <!--Slide Image-->
 
                                 <div class="container">
@@ -293,7 +293,7 @@
                             <!--.item-->
 
                             <div class="item">
-                                <img src="<?php echo base_url("assets/img/slider/slide-2.jpg");?>" alt="Hero Slide">
+                                <img src="<?php  base_url();?>assets/img/slider/slide-2.jpg" alt="Hero Slide">
                                 <!--Slide Image-->
 
                                 <div class="container">
@@ -341,7 +341,7 @@
 			              	<div class="col-sm-4">
 			              		<div class="service">
 				              		<div class="service-thumb-home">
-				              			<a href="#"><img src="<?php echo base_url("assets/img/trans.jpg");?>" alt=""></a>
+				              			<a href="#"><img src="<?php  base_url();?>assets/img/trans.jpg" alt=""></a>
 				              		</div>
 				              		
 				              		<h3>Transportation &amp; Logistics</h3>
@@ -353,7 +353,7 @@
 			              	<div class="col-sm-4">
 			              		<div class="service">
 				              		<div class="service-thumb-home">
-				              			<a href="#"><img src="<?php echo base_url("assets/img/moving.jpg");?>" alt=""></a>
+				              			<a href="#"><img src="<?php  base_url();?>assets/img/moving.jpg" alt=""></a>
 				              		</div>
 				              		<h3>Moving &amp; Storage</h3>
 				              		<p>Holisticly synergize maintainable intellectual<br> capital via viral interfaces. Energistically<br> embrace functionalized </p>
@@ -365,7 +365,7 @@
 			              	<div class="col-sm-4">
 			              		<div class="service">
 				              		<div class="service-thumb-home">
-				              			<a href="#"><img src="<?php echo base_url("assets/img/shipping.jpg");?>" alt=""></a>
+				              			<a href="#"><img src="<?php  base_url();?>assets/img/shipping.jpg" alt=""></a>
 				              		</div>
 				              		<h3>Shipping Operations</h3>
 				              		<p>Holisticly synergize maintainable intellectual<br> capital via viral interfaces. Energistically<br> embrace functionalized </p>
@@ -424,7 +424,7 @@
 									    <div class="css-tab-content">
 										    <div class="row">
 										    	<div class="col-md-6">
-										    		<img src="<?php echo base_url("assets/img/secure.png");?>" alt="">
+										    		<img src="<?php  base_url();?>assets/img/secure.png" alt="">
 										    	</div><!-- /.col-md-6 -->
 
 										    	<div class="col-md-6 content-text">
@@ -441,7 +441,7 @@
 									    <div class="css-tab-content">
 										    <div class="row">
 										    	<div class="col-md-6">
-										    		<img src="<?php echo base_url("assets/img/track.png");?>" alt="">
+										    		<img src="<?php  base_url();?>assets/img/track.png" alt="">
 										    	</div><!-- /.col-md-6 -->
 
 										    	<div class="col-md-6 content-text">
@@ -458,7 +458,7 @@
 									    <div class="css-tab-content">
 										    <div class="row">
 										    	<div class="col-md-6">
-										    		<img src="<?php echo base_url("assets/img/fast.png");?>" alt="">
+										    		<img src="<?php  base_url();?>assets/img/fast.png" alt="">
 										    	</div><!-- /.col-md-6 -->
 
 										    	<div class="col-md-6 content-text">
@@ -475,7 +475,7 @@
 									    <div class="css-tab-content">
 										    <div class="row">
 										    	<div class="col-md-6">
-										    		<img src="<?php echo base_url("assets/img/reliable.png");?>" alt="">
+										    		<img src="<?php  base_url();?>assets/img/reliable.png" alt="">
 										    	</div><!-- /.col-md-6 -->
 
 										    	<div class="col-md-6 content-text">
@@ -549,31 +549,31 @@
 				              	<div class="col-md-12">
 									<div class="owl-carousel partner-carousel">
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p1.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p1.jpg" alt=""></a>
 									    </div>
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p2.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p2.jpg" alt=""></a>
 									    </div>
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p3.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p3.jpg" alt=""></a>
 									    </div>
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p4.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p4.jpg" alt=""></a>
 									    </div>
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p5.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p5.jpg" alt=""></a>
 									    </div>
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p1.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p1.jpg" alt=""></a>
 									    </div>
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p2.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p2.jpg" alt=""></a>
 									    </div>
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p3.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p3.jpg" alt=""></a>
 									    </div>
 									    <div class="item">
-									    	<a href="#"><img src="<?php echo base_url("assets/img/partner/p4.jpg");?>" alt=""></a>
+									    	<a href="#"><img src="<?php  base_url();?>assets/img/partner/p4.jpg" alt=""></a>
 									    </div>
 									</div>
 
@@ -848,32 +848,32 @@
 		</div>
 
 	    <!-- jQuery -->
-	    <script src="<?php echo base_url('assets/js/jquery.js');?>"></script>
+	    <script src="<?php  base_url();?>assets/js/jquery.js"></script>
 	    <!-- Bootstrap Core JavaScript -->
-	    <script src="<?php echo base_url('assets/js/bootstrap.min.js');?>"></script>
+	    <script src="<?php  base_url();?>assets/js/bootstrap.min.js"></script>
 	    <!-- owl.carousel -->
-	    <script src="<?php echo base_url('assets/owl.carousel/owl.carousel.min.js');?>"></script>
+	    <script src="<?php  base_url();?>assets/owl.carousel/owl.carousel.min.js"></script>
 	    <!-- Magnific-popup -->
-		<script src="<?php echo base_url('assets/js/jquery.magnific-popup.min.js');?>"></script>
+		<script src="<?php  base_url();?>assets/js/jquery.magnific-popup.min.js"></script>
 		<!-- Offcanvas Menu -->
-		<script src="<?php echo base_url('assets/js/hippo-offcanvas.js');?>"></script>
+		<script src="<?php  base_url();?>assets/js/hippo-offcanvas.js"></script>
 		<!-- inview -->
-		<script src="<?php echo base_url('assets/js/jquery.inview.min.js');?>"></script>
+		<script src="<?php  base_url();?>assets/js/jquery.inview.min.js"></script>
 		<!-- stellar -->
-		<script src="<?php echo base_url('assets/js/jquery.stellar.js');?>"></script>
+		<script src="<?php  base_url();?>assets/js/jquery.stellar.js"></script>
 		<!-- countTo -->
-		<script src="<?php echo base_url('assets/js/jquery.countTo.js');?>"></script>
+		<script src="<?php  base_url();?>assets/js/jquery.countTo.js"></script>
 		<!-- classie -->
-		<script src="<?php echo base_url('assets/js/classie.js');?>"></script>
+		<script src="<?php  base_url();?>assets/js/classie.js"></script>
 		<!-- selectFx -->
-		<script src="<?php echo base_url('assets/js/selectFx.js');?>"></script>
+		<script src="<?php  base_url();?>assets/js/selectFx.js"></script>
 		<!-- sticky kit -->
-		<script src="<?php echo base_url('assets/js/jquery.sticky-kit.min.js');?>"></script>
+		<script src="<?php  base_url();?>assets/js/jquery.sticky-kit.min.js"></script>
 	    <!-- GOGLE MAP -->
 	    <script src="https://maps.googleapis.com/maps/api/js"></script>
 	    <!--TWITTER FETCHER-->
-	    <script src="<?php echo base_url('assets/js/twitterFetcher_min.js');?>"></script>
+	    <script src="<?php  base_url();?>assets/js/twitterFetcher_min.js"></script>
 	    <!-- Custom Script -->
-	    <script src="<?php echo base_url('assets/js/scripts.js');?>"></script>
+	    <script src="<?php  base_url();?>assets/js/scripts.js"></script>
 	</body>
 </html>
