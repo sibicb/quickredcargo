@@ -9,29 +9,29 @@
 	    <meta name="author" content="">
 
 	    <title>QUICK RED CARGO LINK, INC.</title>
-	    <link href="<?php base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
+	    <link href="<?php echo base_url('assets/css/bootstrap.min.css');?>" rel="stylesheet">
 	    <!-- Flaticon CSS -->
-	    <link href="<?php base_url();?>assets/fonts/flaticon/flaticon.css" rel="stylesheet">
+	    <link href="<?php  base_url("assets/fonts/flaticon/flaticon.css");?>" rel="stylesheet">
 	    <!-- font-awesome CSS -->
-	    <link href="<?php base_url();?>assets/css/font-awesome.min.css" rel="stylesheet">
+	    <link href="<?php  base_url();?>assets/css/font-awesome.min.css" rel="stylesheet">
 	    <!-- Offcanvas CSS -->
-	    <link href="<?php base_url();?>assets/css/hippo-off-canvas.css" rel="stylesheet">
+	    <link href="<?php echo base_url('assets/css/hippo-off-canvas.css');?>" rel="stylesheet">
 	    <!-- animate CSS -->
-	    <link href="<?php base_url();?>assets/css/animate.css" rel="stylesheet">
+	    <link href="<?php echo base_url('assets/css/animate.css');?>" rel="stylesheet">
 	    <!-- language CSS -->
-	    <link href="<?php base_url();?>assets/css/language-select.css" rel="stylesheet">
+	    <link href="<?php echo base_url('assets/css/language-select.css');?>" rel="stylesheet">
 	    <!-- owl.carousel CSS -->
-	    <link href="<?php base_url();?>assets/owl.carousel/assets/owl.carousel.css" rel="stylesheet">
+	    <link href="<?php echo base_url('assets/owl.carousel/assets/owl.carousel.css');?>" rel="stylesheet">
 			<!-- magnific-popup -->
-    	<link href="<?php base_url();?>assets/css/magnific-popup.css" rel="stylesheet">
+    	<link href="<?php echo base_url('assets/css/magnific-popup.css');?>" rel="stylesheet">
     	<!-- Main menu -->
-    	<link href="<?php base_url();?>assets/css/menu.css" rel="stylesheet">
+    	<link href="<?php echo base_url('assets/css/menu.css');?>" rel="stylesheet">
     	<!-- Template Common Styles -->
-    	<link href="<?php base_url();?>assets/css/template.css" rel="stylesheet">
+    	<link href="<?php echo base_url('assets/css/template.css');?>" rel="stylesheet">
 	    <!-- Custom CSS -->
-	    <link href="<?php base_url();?>assets/css/style.css" rel="stylesheet">
+	    <link href="<?php echo base_url('assets/css/style.css');?>" rel="stylesheet">
 	    <!-- Responsive CSS -->
-	    <link href="<?php base_url();?>assets/css/responsive.css" rel="stylesheet">
+	    <link href="<?php echo base_url('assets/css/responsive.css');?>" rel="stylesheet">
 
       <script src="<?php echo base_url('assets/js/vendor/modernizr-2.8.1.min.js');?>"></script>
 	    
