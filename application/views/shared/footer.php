@@ -82,13 +82,14 @@
           <h3>Place &amp; Contact</h3>
 
           <address>
-            384 Maple Circle<br>
-            Simi Valley, Nevada 47424<br>
-
+            Unit 24 Cargo Village Complex<br>
+            Ninoy Aquino Avenue<br>
+            Barangay Santo Niño<br>
+            Parañaque, Metro Manila 1704 <br>
             <!-- Google Map Modal Trigger -->
             <button type="button" class="modal-map" data-toggle="modal" data-target="#cssMapModal">Location  Map</button>
 
-            <span class="tel">(554) 616-9926</span>
+            <span class="tel">(02) 519-3391</span>
           </address>
 
 
@@ -103,7 +104,7 @@
                 <div class="modal-body">
 
                   <div id="googleMap"></div>
-                  
+
                 </div>
               </div><!-- /.modal-content -->
             </div><!-- /.modal-dialog -->
@@ -116,11 +117,11 @@
           <h3>About Transport</h3>
 
           <ul>
-            <li><a href="about.html">About</a></li>
-            <li><a href="service.html">Service</a></li>
-            <li><a href="our-people.html">Our people</a></li>
-            <li><a href="career.html">Career</a></li>
-            <li><a href="faq.html">FAQ Page</a></li>
+            <li><a href="<?php echo site_url();?>about">About</a></li>
+           <li><a href="<?php echo site_url();?>service">Service</a></li>
+           <li><a href="<?php echo site_url();?>our_people">Our people</a></li>
+           <li><a href="<?php echo site_url();?>career">Career</a></li>
+           <li><a href="<?php echo site_url();?>faq">FAQ Page</a></li>
           </ul>
         </div><!-- /.footer-widget -->
       </div><!-- /.col-md-4 -->
@@ -226,7 +227,7 @@
             <button type="submit" class="btn">Send &nbsp;<i class="fa fa-angle-right"></i></button>
           </div>
         </form>   
-        
+
       </div><!-- newsletter-widget -->
     </div>
 

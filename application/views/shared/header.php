@@ -129,11 +129,10 @@
         <div class="submenu-inner">
           <ul class="dropdown-menu">
            <li><a href="<?php echo site_url();?>about">About</a></li>
-           <li><a href="service.html">Service</a></li>
-           <li><a href="our-people.html">Our people</a></li>
-           <li><a href="career.html">Career</a></li>
-           <li><a href="faq.html">FAQ Page</a></li>
-           <li><a href="typography.html">Typography</a></li>
+           <li><a href="<?php echo site_url();?>service">Service</a></li>
+           <li><a href="<?php echo site_url();?>our_people">Our people</a></li>
+           <li><a href="<?php echo site_url();?>career">Career</a></li>
+           <li><a href="<?php echo site_url();?>faq">FAQ Page</a></li>
          </ul>
        </div>
      </div>
@@ -159,87 +158,7 @@
    <!-- /submenu-wrapper -->
  </li>
  <!-- MEGA MENU -->
- <li class="dropdown mega-fw has-megamenu"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Features <span class="fa fa-angle-down"></span></a>
-   <!-- megamenu-wrapper -->
-   <div class="submenu-wrapper megamenu-wrapper">
-    <div class="submenu-inner megamenu-inner">
-      
-     <ul class="dropdown-menu">
-      <li>
-       <div class="mega-content">
-        <div class="row">
-          
-         <div class="col-sm-3 mega-col">
-          <ul>
-           <li class="dropdown-header">Features</li>
-           <li><a href="#">100% Responsive</a></li>
-           <li><a href="#">Animations</a></li>
-           <li><a href="#">Bootstrap 3+</a></li>
-           <li><a href="#">Valid Markups</a></li>
-           <li><a href="#">Mega Menu</a></li>
-           <li><a href="#">Free Supports And Update</a></li>
-         </ul>
-       </div><!-- /.col -->
-       
-       
-       <div class="col-sm-3 mega-col">
-        <ul>
-         <li class="dropdown-header">Pages</li>
-         <li><a href="<?php base_url();?>/about">About</a></li>
-         <li><a href="service.html">Service</a></li>
-         <li><a href="our-people.html">Our people</a></li>
-         <li><a href="career.html">Career</a></li>
-         <li><a href="faq.html">FAQ Page</a></li>
-         <li><a href="typography.html">Typography</a></li>
-       </ul>
-     </div><!-- /.col-->
-
-
-     <div class="col-sm-3 mega-col">
-      <ul>
-       <li class="dropdown-header">Services</li>
-       <li><a href="air.html">Air transportation</a></li>
-       <li><a href="marine.html">Marine transportation</a></li>
-       <li><a href="moving.html">Moving & storage</a></li>
-       <li><a href="shipping.html">Shipping & operations</a></li>
-       <li><a href="transportation.html">Transportation logistics</a></li>
-       <li><a href="trucking.html">Trucking</a></li>
-     </ul>
-   </div><!-- /.col-->
-
-
-   <div class="col-sm-3 mega-col">
-    <ul>
-     <li class="dropdown-header">Typography</li>
-     <li><a href="#">Bootstrap grids</a></li>
-     <li><a href="#">Google fonts</a></li>
-     <li><a href="#">Fontawesome icons</a></li>
-     <li><a href="#">Flat icons</a></li>
-     <li><a href="#">Tabs</a></li>
-     <li><a href="#">Button elements</a></li>
-   </ul>
- </div><!-- /.col --> 
-</div><!-- /.row -->
-</div><!-- /.mega-content -->
-</li>
-</ul><!-- /.dropdown menu -->
-</div><!-- /.megamenu-inner -->
-</div> <!-- /.megamenu-wrapper -->
-</li> <!-- /MEGA MENU -->
-<!-- /Pages -->
-<!-- Blog -->
-<li class="dropdown"><a href="#">Blog <span class="fa fa-angle-down"></span></a>
-  <!-- submenu-wrapper -->
-  <div class="submenu-wrapper">
-    <div class="submenu-inner">
-      <ul class="dropdown-menu">
-       <li><a href="blog.html">Standard blog</a></li>
-       <li><a href="blog-single.html">Single blog</a></li>
-     </ul>
-   </div>
- </div>
- <!-- /submenu-wrapper -->
-</li>
+ 
 <li><a href="contact.html">Contact</a></li>
 </ul>
 </div><!-- /.navbar-collapse -->
