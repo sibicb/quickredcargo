@@ -27,15 +27,6 @@ class Welcome extends MY_Controller {
 		$this->layout();
 		
 	}
-	public function about_us()
-	{
-		// $this->load->helper('html');
-		$this->load->helper('url');
-		$this->load->helper('html');
-		$this->content = 'welcome_message';
-		$this->layout();
-		
-	}
 }
 
 

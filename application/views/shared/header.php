@@ -8,6 +8,7 @@
   <meta name="author" content="">
 
   <title>QUICK RED CARGO LINK, INC.</title>
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
   <link href="<?php  base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
   <!-- Flaticon CSS -->
   <link href="<?php  base_url();?>assets/fonts/flaticon/flaticon.css" rel="stylesheet">
@@ -86,20 +87,20 @@
 </div><!-- /.overlay-bg -->
 </nav><!-- /.top-bar -->
 
-<div id="search">
+<!-- <div id="search">
  <button type="button" class="close">×</button>
  <form>
    <input type="search" value="" placeholder="type keyword(s) here" />
    <button type="submit" class="btn btn-primary">Search</button>
  </form>
-</div>
+</div> -->
 
 <nav class="navbar navbar-default" role="navigation">
   
   <div class="container mainnav">
    <div class="navbar-header">
     <h1 class="logo">
-    <a class="navbar-brand" href="index.html"><img src="<?php  base_url();?>assets/img/logo.png" alt=""></a>
+    <a class="navbar-brand" href="<?php echo site_url();?>"><img src="<?php  base_url();?>assets/img/logo.png" alt=""></a>
     </h1>
       <!-- offcanvas-trigger -->
       <button type="button" class="navbar-toggle collapsed pull-right" >
@@ -114,21 +115,11 @@
 
       
 
-      <span class="search-button pull-right"><a href="#search"><i class="fa fa-search"></i></a></span>
+      <span class="search-button pull-right"><!-- <a href="#search"><i class="fa fa-search"></i></a> --></span>
 
       <ul class="nav navbar-nav navbar-right">
        <!-- Home -->
-       <li class="dropdown active"><a href="index.html">Home <span class="fa fa-angle-down"></span></a>
-        <!-- submenu-wrapper -->
-        <div class="submenu-wrapper">
-          <div class="submenu-inner">
-            <ul class="dropdown-menu">
-             <li><a href="index2.html">Home2</a></li>
-           </ul>
-         </div>
-       </div>
-       <!-- /submenu-wrapper -->
-     </li>
+       <li class="active"><a href="<?php echo site_url();?>home">Home</a></li>
      <!-- /Home -->
 
      <!-- Pages -->
@@ -137,7 +128,7 @@
       <div class="submenu-wrapper">
         <div class="submenu-inner">
           <ul class="dropdown-menu">
-           <li><a href="about.html">About</a></li>
+           <li><a href="<?php echo site_url();?>about">About</a></li>
            <li><a href="service.html">Service</a></li>
            <li><a href="our-people.html">Our people</a></li>
            <li><a href="career.html">Career</a></li>
@@ -194,7 +185,7 @@
        <div class="col-sm-3 mega-col">
         <ul>
          <li class="dropdown-header">Pages</li>
-         <li><a href="about.html">About</a></li>
+         <li><a href="<?php base_url();?>/about">About</a></li>
          <li><a href="service.html">Service</a></li>
          <li><a href="our-people.html">Our people</a></li>
          <li><a href="career.html">Career</a></li>

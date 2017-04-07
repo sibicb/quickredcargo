@@ -35,8 +35,8 @@ $config['base_url'] = '';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php?';
-$config['uri_protocol'] = "QUERY_STRING";
+$config['index_page'] = '';
+$config['uri_protocol'] = 'AUTO';
 
 /*
 |--------------------------------------------------------------------------
