@@ -119,11 +119,11 @@
 
       <ul class="nav navbar-nav navbar-right">
        <!-- Home -->
-       <li class="active"><a href="<?php site_url();?>home">Home</a></li>
+       <li class="<?php if($this->uri->segment(1)=="home"){echo "active";}?>"><a href="<?php site_url();?>home">Home</a></li>
      <!-- /Home -->
 
      <!-- Pages -->
-     <li class="dropdown"><a href="#">Pages <span class="fa fa-angle-down"></span></a>
+     <li class="dropdown <?php if($this->uri->segment(1) == "about" || $this->uri->segment(1) == "service" || $this->uri->segment(1) == "career"){echo "active";}?>"><a href="#">Pages <span class="fa fa-angle-down"></span></a>
       <!-- submenu-wrapper -->
       <div class="submenu-wrapper">
         <div class="submenu-inner">
@@ -141,17 +141,17 @@
    <!-- /Pages -->
 
    <!-- Services -->
-   <li class="dropdown"><a href="#">Services <span class="fa fa-angle-down"></span></a>
+   <li class="dropdown <?php if($this->uri->segment(1) == "air" || $this->uri->segment(1) == "marine" || $this->uri->segment(1) == "moving" || $this->uri->segment(1) == "shipping" || $this->uri->segment(1) == "transportation" || $this->uri->segment(1) == "trucking"){echo "active";}?>""><a href="#">Services <span class="fa fa-angle-down"></span></a>
     <!-- submenu-wrapper -->
     <div class="submenu-wrapper">
       <div class="submenu-inner">
         <ul class="dropdown-menu">
-         <li><a href="air.html">Air transportation</a></li>
-         <li><a href="marine.html">Marine transportation</a></li>
-         <li><a href="moving.html">Moving & storage</a></li>
-         <li><a href="shipping.html">Shipping & operations</a></li>
-         <li><a href="transportation.html">Transportation logistics</a></li>
-         <li><a href="trucking.html">Trucking</a></li>
+         <li><a href="<?php site_url();?>air">Air transportation</a></li>
+         <li><a href="<?php site_url();?>marine">Marine transportation</a></li>
+         <li><a href="<?php site_url();?>moving">Moving & storage</a></li>
+         <li><a href="<?php site_url();?>shipping">Shipping & operations</a></li>
+         <li><a href="<?php site_url();?>transportation">Transportation logistics</a></li>
+         <li><a href="<?php site_url();?>trucking">Trucking</a></li>
        </ul>
      </div>
    </div>
@@ -159,7 +159,7 @@
  </li>
  <!-- MEGA MENU -->
  
-<li><a href="<?php site_url();?>contact">Contact</a></li>
+<li class="<?php if($this->uri->segment(1)=="contact"){echo "active";}?>"><a href="<?php site_url();?>contact">Contact</a></li>
 </ul>
 </div><!-- /.navbar-collapse -->
 </div><!-- /.container -->

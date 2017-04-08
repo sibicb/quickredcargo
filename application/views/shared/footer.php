@@ -148,13 +148,13 @@
 <!-- copyright-section start -->
 <footer class="copyright-section">
   <div class="container text-center">
-    <div class="footer-menu">
+    <!-- <div class="footer-menu">
       <ul>
         <li><a href="#">Privacy &amp; Cookies</a></li>
         <li><a href="#">Terms &amp; Conditions</a></li>
         <li><a href="#">Accessibility</a></li>
       </ul>
-    </div>
+    </div> -->
 
     <div class="copyright-info">
       <span>Copyright © 2017.Quick Red Cargo Link, Inc. All Rights Reserved. Designed by <a href="https://uicookies.com">uiCookies</a>
