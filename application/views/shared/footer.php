@@ -117,11 +117,11 @@
           <h3>About Transport</h3>
 
           <ul>
-            <li><a href="<?php echo site_url();?>about">About</a></li>
-           <li><a href="<?php echo site_url();?>service">Service</a></li>
-           <!-- <li><a href="<?php echo site_url();?>our_people">Our people</a></li> -->
-           <li><a href="<?php echo site_url();?>career">Career</a></li>
-           <!-- <li><a href="<?php echo site_url();?>faq">FAQ Page</a></li> -->
+            <li><a href="<?php  site_url();?>about">About</a></li>
+           <li><a href="<?php  site_url();?>service">Service</a></li>
+           <!-- <li><a href="<?php  site_url();?>our_people">Our people</a></li> -->
+           <li><a href="<?php  site_url();?>career">Career</a></li>
+           <!-- <li><a href="<?php site_url();?>faq">FAQ Page</a></li> -->
           </ul>
         </div><!-- /.footer-widget -->
       </div><!-- /.col-md-4 -->

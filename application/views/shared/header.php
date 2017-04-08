@@ -100,7 +100,7 @@
   <div class="container mainnav">
    <div class="navbar-header">
     <h1 class="logo">
-    <a class="navbar-brand" href="<?php echo site_url();?>"><img src="<?php  base_url();?>assets/img/logo.png" alt=""></a>
+    <a class="navbar-brand" href="<?php site_url();?>"><img src="<?php  base_url();?>assets/img/logo.png" alt=""></a>
     </h1>
       <!-- offcanvas-trigger -->
       <button type="button" class="navbar-toggle collapsed pull-right" >
@@ -119,7 +119,7 @@
 
       <ul class="nav navbar-nav navbar-right">
        <!-- Home -->
-       <li class="active"><a href="<?php echo site_url();?>home">Home</a></li>
+       <li class="active"><a href="<?php site_url();?>home">Home</a></li>
      <!-- /Home -->
 
      <!-- Pages -->
@@ -128,11 +128,11 @@
       <div class="submenu-wrapper">
         <div class="submenu-inner">
           <ul class="dropdown-menu">
-           <li><a href="<?php echo site_url();?>about">About</a></li>
-           <li><a href="<?php echo site_url();?>service">Service</a></li>
-           <!-- <li><a href="<?php echo site_url();?>our_people">Our people</a></li> -->
-           <li><a href="<?php echo site_url();?>career">Career</a></li>
-           <!-- <li><a href="<?php echo site_url();?>faq">FAQ Page</a></li> -->
+           <li><a href="<?php  site_url();?>about">About</a></li>
+           <li><a href="<?php  site_url();?>service">Service</a></li>
+           <!-- <li><a href="<?php site_url();?>our_people">Our people</a></li> -->
+           <li><a href="<?php site_url();?>career">Career</a></li>
+           <!-- <li><a href="<?php site_url();?>faq">FAQ Page</a></li> -->
          </ul>
        </div>
      </div>
@@ -159,7 +159,7 @@
  </li>
  <!-- MEGA MENU -->
  
-<li><a href="<?php echo site_url();?>contact">Contact</a></li>
+<li><a href="<?php site_url();?>contact">Contact</a></li>
 </ul>
 </div><!-- /.navbar-collapse -->
 </div><!-- /.container -->
