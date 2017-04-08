@@ -4,9 +4,9 @@ jQuery(function ($) {
 
     /* ---------------------------------------------- /*
      * Preloader
-    /* ---------------------------------------------- */
+     /* ---------------------------------------------- */
 
-    $(function () {
+     $(function () {
         $('#status').fadeOut();
         $('#preloader').delay(200).fadeOut('slow');
 
@@ -88,14 +88,14 @@ jQuery(function ($) {
     (function () {
         $('.img-link').magnificPopup({
 
-        gallery: {
-          enabled: true
-        },
+            gallery: {
+              enabled: true
+          },
         removalDelay: 300, // Delay in milliseconds before popup is removed
         mainClass: 'mfp-with-zoom', // this class is for CSS animation below
         type:'image'
 
-        });
+    });
     }());
 
 
@@ -114,11 +114,11 @@ jQuery(function ($) {
     // OffCanvas
     // -------------------------------------------------------------
 
-   (function () {
+    (function () {
         $('button.navbar-toggle').HippoOffCanvasMenu({
 
-        documentWrapper: '#st-container',
-        contentWrapper : '.st-content',
+            documentWrapper: '#st-container',
+            contentWrapper : '.st-content',
         position       : 'hippo-offcanvas-left',    // class name
         // opener         : 'st-menu-open',            // class name
         effect         : 'slide-in-on-top',             // class name
@@ -126,7 +126,7 @@ jQuery(function ($) {
         menuWrapper    : '.offcanvas-menu',                 // class name below-pusher
         documentPusher : '.st-pusher'
 
-        });
+    });
         var ico = $('<i class="fa fa-caret-right"></i>');
         $('#offcanvasMenu li:has(ul) > a').append(ico);
 
@@ -238,9 +238,9 @@ jQuery(function ($) {
 
             $('.submenu-wrapper').each(function(){
 
-               $(this).addClass('no-pointer-events');
+             $(this).addClass('no-pointer-events');
 
-            });
+         });
 
         }
 
@@ -255,22 +255,22 @@ jQuery(function ($) {
 
     (function(){
 
-          $('body').append('<div id="toTop"><i class="fa fa-angle-double-up"></i></div>');
+      $('body').append('<div id="toTop"><i class="fa fa-angle-double-up"></i></div>');
 
-            $(window).scroll(function () {
-                if ($(this).scrollTop() != 0) {
-                    $('#toTop').fadeIn();
-                } else {
-                    $('#toTop').fadeOut();
-                }
-            });
+      $(window).scroll(function () {
+        if ($(this).scrollTop() != 0) {
+            $('#toTop').fadeIn();
+        } else {
+            $('#toTop').fadeOut();
+        }
+    });
 
-        $('#toTop').on('click',function(){
-            $("html, body").animate({ scrollTop: 0 }, 600);
-            return false;
-        });
+      $('#toTop').on('click',function(){
+        $("html, body").animate({ scrollTop: 0 }, 600);
+        return false;
+    });
 
-    }());
+  }());
 
 
 
@@ -315,9 +315,9 @@ jQuery(function ($) {
 
             $('.submenu-wrapper').each(function(){
 
-               $(this).addClass('no-pointer-events');
+             $(this).addClass('no-pointer-events');
 
-            });
+         });
 
         }
 
@@ -418,11 +418,11 @@ jQuery(function ($) {
     // ------------------------------------------------------------------
 
     //set your google maps parameters
-    var $latitude = 48.869319, //If you unable to find latitude and longitude of your address. Please visit http://www.latlong.net/convert-address-to-lat-long.html you can easily generate.
-        $longitude = 2.354261,
-        $map_zoom = 16; /* ZOOM SETTING */
+    var $latitude = 14.5095295, //If you unable to find latitude and longitude of your address. Please visit http://www.latlong.net/convert-address-to-lat-long.html you can easily generate.
+    $longitude = 120.9974934,
+    $map_zoom = 16; /* ZOOM SETTING */
         //google map custom marker icon
-    var $marker_url = 'img/map-marker.png';
+    // var $marker_url = 'map-marker.png';
 
     //we define here the style of the map
     var style = [{
@@ -442,11 +442,11 @@ jQuery(function ($) {
     (function () {
 
 
-    if ($('#contactMap').length > 0) {
+        if ($('#contactMap').length > 0) {
 
 
          //set google map options
-        var map_options = {
+         var map_options = {
             center: new google.maps.LatLng($latitude, $longitude),
             zoom: $map_zoom,
             panControl: true,
@@ -466,13 +466,55 @@ jQuery(function ($) {
             position: new google.maps.LatLng($latitude, $longitude),
             map: map,
             visible: true,
-            icon: $marker_url,
+            // icon: $marker_url,
+
         });
+        marker.setMap(map);
     };
 
-    }());
+}());
 
-   
+    //Modal map
+    (function () {
+
+
+        if ($('#googleMap').length > 0) {
+
+
+        //set google map options
+        var map_options = {
+            center: new google.maps.LatLng($latitude, $longitude),
+            zoom: $map_zoom,
+            panControl: true,
+            zoomControl: true,
+            mapTypeControl: false,
+            streetViewControl: true,
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            scrollwheel: false,
+            styles: style,
+        }
+        //initialize the map
+        var map = new google.maps.Map(document.getElementById('googleMap'), map_options);
+        //add a custom marker to the map
+        var marker = new google.maps.Marker({
+            position: new google.maps.LatLng($latitude, $longitude),
+            map: map,
+            visible: true,
+
+        });
+        marker.setMap(map);
+
+        $('#cssMapModal').on('shown.bs.modal', function(){
+
+           google.maps.event.trigger(map, 'resize');
+           map.setCenter(new google.maps.LatLng($latitude, $longitude));
+       });
+
+    };
+
+}());
+
+
 
 
     // Twitter Feed on Footer Widget
@@ -495,7 +537,7 @@ jQuery(function ($) {
             var html = "";
             while (n < x) {
                 html += '<div class="item">' + tweets[n] +
-                    "</div>";
+                "</div>";
                 n++
             }
             $(".twitter-widget").html(html);

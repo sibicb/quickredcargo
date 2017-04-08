@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>QUICK RED CARGO LINK, INC.</title>
+  <title>Quick Red Cargo Link, Inc.</title>
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
   <link href="<?php  base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
   <!-- Flaticon CSS -->
@@ -73,12 +73,12 @@
            </select>
          </div> -->
 
-         <ul class="social-links list-inline pull-right">
+         <!-- <ul class="social-links list-inline pull-right">
           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
           <li><a href="#"><i class="fa fa-twitter"></i></a></li>
           <li><a href="#"><i class="fa fa-instagram"></i></a></li>
           <li><a href="#"><i class="fa fa-tumblr"></i></a></li>
-        </ul>
+        </ul> -->
       </div><!-- /.social-links -->
     </div><!-- /.col-sm-6 -->
     
@@ -130,9 +130,9 @@
           <ul class="dropdown-menu">
            <li><a href="<?php echo site_url();?>about">About</a></li>
            <li><a href="<?php echo site_url();?>service">Service</a></li>
-           <li><a href="<?php echo site_url();?>our_people">Our people</a></li>
+           <!-- <li><a href="<?php echo site_url();?>our_people">Our people</a></li> -->
            <li><a href="<?php echo site_url();?>career">Career</a></li>
-           <li><a href="<?php echo site_url();?>faq">FAQ Page</a></li>
+           <!-- <li><a href="<?php echo site_url();?>faq">FAQ Page</a></li> -->
          </ul>
        </div>
      </div>
@@ -159,7 +159,7 @@
  </li>
  <!-- MEGA MENU -->
  
-<li><a href="contact.html">Contact</a></li>
+<li><a href="<?php echo site_url();?>contact">Contact</a></li>
 </ul>
 </div><!-- /.navbar-collapse -->
 </div><!-- /.container -->

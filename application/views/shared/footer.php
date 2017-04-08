@@ -82,10 +82,10 @@
           <h3>Place &amp; Contact</h3>
 
           <address>
-            Unit 24 Cargo Village Complex<br>
-            Ninoy Aquino Avenue<br>
-            Barangay Santo Niño<br>
-            Parañaque, Metro Manila 1704 <br>
+            U-b OCS Building L-6<br>
+            Sta. Agueda Avenue<br>
+            Pascor Drive Santo Niño<br>
+            Parañaque City, Metro Manila 1704 <br>
             <!-- Google Map Modal Trigger -->
             <button type="button" class="modal-map" data-toggle="modal" data-target="#cssMapModal">Location  Map</button>
 
@@ -119,9 +119,9 @@
           <ul>
             <li><a href="<?php echo site_url();?>about">About</a></li>
            <li><a href="<?php echo site_url();?>service">Service</a></li>
-           <li><a href="<?php echo site_url();?>our_people">Our people</a></li>
+           <!-- <li><a href="<?php echo site_url();?>our_people">Our people</a></li> -->
            <li><a href="<?php echo site_url();?>career">Career</a></li>
-           <li><a href="<?php echo site_url();?>faq">FAQ Page</a></li>
+           <!-- <li><a href="<?php echo site_url();?>faq">FAQ Page</a></li> -->
           </ul>
         </div><!-- /.footer-widget -->
       </div><!-- /.col-md-4 -->
@@ -157,7 +157,7 @@
     </div>
 
     <div class="copyright-info">
-      <span>Copyright © 2015 Unship. All Rights Reserved. Designed by <a href="https://uicookies.com">uiCookies</a><br> Proudly powered by <a href="http://www.w3schools.com/html/html5_intro.asp">HTML5</a> and <a href="getbootstrap.com">Bootstrap3</a></span>
+      <span>Copyright © 2017.Quick Red Cargo Link, Inc. All Rights Reserved. Designed by <a href="https://uicookies.com">uiCookies</a>
     </div>
   </div><!-- /.container -->
 </footer>
@@ -197,7 +197,7 @@
         </ul>
 
       </li>
-      <li>
+      <!-- <li>
         <a href="#">Blog</a>
         <ul>
           <li>
@@ -206,7 +206,7 @@
           <li>
             <a href="blog-single.html">Single blog</a>
           </li>
-        </ul>
+        </ul> -->
       </li>
       <li><a href="contact.html">Contact</a></li>
       <li><a href="typography.html">Typography</a></li>

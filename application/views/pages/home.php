@@ -329,7 +329,7 @@
 <!-- testimonial-section end -->
 
 <!-- counter start -->
-<section class="counter-section" data-stellar-background-ratio="0.5">
+<!-- <section class="counter-section" data-stellar-background-ratio="0.5">
  <div class="container">
   <div class="row">
    <div class="col-sm-4 col-xs-12">
@@ -346,7 +346,7 @@
  <div class="counter-block">
   <span class="count-description flaticon-compass"><strong class="timer">521</strong>order delivered</span>
 </div>
-</div> 
+</div>  -->
 </div> <!-- /.row -->
 </div><!-- /.container -->
 </section><!-- /.counter-section -->
