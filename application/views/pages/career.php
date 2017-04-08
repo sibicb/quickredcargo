@@ -26,12 +26,12 @@
         <span class="section-sub">Here is everything you need to know about finding and<br>applying for a position within the Unship.</span>
       </div>
     </div><!--/.row -->
-    
+
     <div class="career-contents">
      <div class="row">
       <div class="col-sm-12">
         <h3>How to apply</h3>
-        <p><img class="img-responsive img-alignright" src="img/careerthumb.jpg" alt="career">Efficiently optimize principle-centered testing procedures through e-business initiatives. 
+        <p><img class="img-responsive img-alignright" src="<?php base_url();?>assets/img/careerthumb.jpg" alt="career">Efficiently optimize principle-centered testing procedures through e-business initiatives. 
           Authoritatively leverage existing functional niche markets whereas cross functional mindshare. Intrinsicly incentivize adaptive users rather than exceptional ideas.</p>
           <p>Enthusiastically re-engineer premium best practices via state of the art e-services. Seamlessly negotiate effective markets after customized scenarios.</p>
           <br>
@@ -76,7 +76,7 @@
           </ul>
 
         </div><!--/.col -->
-        
+
       </div><!--/.row -->
     </div><!--/.career-contents -->
   </div><!--/.container -->
