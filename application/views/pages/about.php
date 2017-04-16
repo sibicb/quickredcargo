@@ -1,10 +1,9 @@
-<!-- about-intro-section -->
 <section class="about-intro-section">
   <div class="container">
     <div class="row">
       <div class="col-md-7">
         <div class="about-intro">
-          <h2>Welcome to Transport</h2>
+          <h2>Welcome to Quick Red Cargo Link, Inc.</h2>
 
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio cupiditate temporibus sunt. Accusantium obcaecati, exercitationem enim cupiditate placeat tempora. Quod dolor unde at? Libero doloremque voluptas, cum, cupiditate minima magnam. dolor sit amet, consectetur adipisicing elit. Distinctio cupiditate. dolor sit amet, consectetur adipisicing elit. Distinctio cupiditate. cupiditate. dolor sit amet, consectetur adipisicing elit.</p>
 
@@ -53,64 +52,11 @@
 <section class="history-section">
   <div class="container">
     <h2>Our History</h2>
-    <p>Quickly e-enable fully tested opportunities and cross-unit interfaces. Quickly empower unique human capital before timely quality vectors. Interactively<br> deploy strategic results after cooperative opportunities. Enthusiastically envisioneer frictionless scenarios without market-driven architectures.<br> Seamlessly strategize excellent materials whereas competitive channels.</p>
+    <p> The Company founded in January 2003, A privately owned Filipino Company, In year 2, an expansion year for the company by adding more services, customers and employees. The Company survived and evolved despite national and worldwide economic disruptions and Grown to be one of the well-known Customs Clearing agents/brokers. Continues to strengthen its network of partners locally and internationally.</p>
 
 
-    <div class="history-timeline">
-      <div id="historyCarousel" class="carousel slide carousel-fade" data-ride="carousel">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-          <li data-target="#historyCarousel" data-slide-to="0" class="active"></li>
-          <li data-target="#historyCarousel" data-slide-to="1"></li>
-          <li data-target="#historyCarousel" data-slide-to="2"></li>
-        </ol>
 
-        <!-- Wrapper for slides -->
-          <div class="carousel-inner">
-            <div class="item active">
-            <div class="history-year text-center">
-              <span class="year">1990</span>
-              <span class="title">Established</span>
-            </div>
-              <div class="history-info">
-                <h3>Completely parallel task corporate supply chains without business benefits.</h3>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus explicabo ut veniam, beatae a reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis minus? beatae a reprehenderit deserunt excepturi nostrum fugit placeat omnis. reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam corporis.</p>
-
-                <p>Consectetur adipisicing elit. Natus explicabo ut veniam, beatae a reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis minus? beatae a reprehenderit deserunt excepturi nostrum fugit placeat omnis. reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis.</p>
-              </div>
-            </div><!-- /.item -->
-            <div class="item">
-            <div class="history-year text-center">
-              <span class="year">1995</span>
-              <span class="title">Established</span>
-            </div>
-              <div class="history-info">
-                <h3>Completely parallel task corporate supply chains without business benefits.</h3>
-
-                <p>Reprehenderit deserunt excepturi nostrum fugit orem ipsum dolor sit amet, consectetur adipisicing elit. Natus explicabo ut veniam, beatae a placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis minus? beatae a reprehenderit deserunt excepturi nostrum fugit placeat omnis. reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam corporis.</p>
-
-                <p>Natus explicabo ut veniam. Consectetur adipisicing elit. beatae a reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis minus? beatae a reprehenderit deserunt excepturi nostrum fugit placeat omnis. reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis.</p>
-              </div>
-            </div><!-- /.item -->
-
-            <div class="item">
-            <div class="history-year text-center">
-              <span class="year">1999</span>
-              <span class="title">Established</span>
-            </div>
-              <div class="history-info">
-                <h3>Completely parallel task corporate supply chains without business benefits.</h3>
-
-                <p>Excepturi nostrum fugit enderit deserunt excepturi nostrum fugit orem ipsum dolor sit amet, consectetur adipisicing elit. Natus explicabo ut veniam, beatae a placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis minus? beatae a reprehenderit deserunt  placeat omnis. reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam corporis.</p>
-
-                <p>Beatae a reprehenderit explicabo ut veniam. Consectetur adipisicing elit. deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis minus? beatae a reprehenderit deserunt excepturi nostrum fugit placeat omnis. reprehenderit deserunt excepturi nostrum fugit placeat omnis adipisci consequuntur ipsam eligendi, vitae animi tenetur corporis.</p>
-              </div>
-            </div><!-- /.item -->
-
-          </div><!-- /.carousel-inner -->
-      </div><!-- /.carousel -->
-    </div><!-- /.history-timeline -->
+    
   </div><!-- /.container -->
 </section>
 <!--/.history-section -->
@@ -120,32 +66,20 @@
 <section class="mission-section section-padding">
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
-        <div class="our-values">
-          <h3>Our Values</h3>
-          <p>Intrinsicly unleash viral opportunities whereas multidisciplinary leadership skills. Authoritatively deliver turnkey web-readiness vis-a-vis backward-compatible intellectual capital. Enthusiastically seize ethical outsourcing rather than 24/365 web-readiness.</p> 
-
-          <p><strong>Enthusiastically:</strong>  formulate long-term high-impact niche markets after business infomediaries.</p> 
-
-          <p><strong>Intrinsicly:</strong>  architect cross-media outsourcing for equity invested e-business.</p>
-        </div>
-      </div><!-- /.col-md-4 -->
-      <div class="col-md-4">
+      <div class="col-md-6">
         <div class="our-mission">
           <h3>Our Mission</h3>
-          <p>Intrinsicly unleash viral opportunities whereas multidisciplinary leadership skills. Authoritatively deliver turnkey web-readiness vis-a-vis backward</p> 
-
-          <p>Intrinsicly unleash viral opportunities whereas multidisciplinary leadership skills. Authoritatively deliver turnkey web-readiness vis-a-vis backward</p> 
-
-          <p>Intrinsicly unleash viral opportunities whereas multidisciplinary leadership skills. Authoritatively deliver turnkey web-readiness vis-a-vis backward</p>
+          <p>We engage in the business of providing high quality transport/logistics agent, customs clearing services to our partners. For us to achieve such goal, we shall:</p>
+          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Enhance and continuously develop our systems and solutions that will lead to the growth of our clients</p>
+          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Develop and maintain competent and multi-skilled employees to provide such high quality service</p>
+          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Enhance and maintain partnership with able and competent suppliers as well as with government agencies that facilitates our customers’ products.</p>
+          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Continuously being a BIG factor to our customer’s growth and profitability. </p>
         </div>
       </div><!-- /.col-md-4 -->
-      <div class="col-md-4">
+      <div class="col-md-6">
         <div class="our-values">
-          <h3>Our Vission</h3>
-          <p>Intrinsicly unleash viral opportunities whereas multidisciplinary leadership skills. Authoritatively deliver turnkey web-readiness vis-a-vis backward-compatible intellectual capital. Enthusiastically seize ethical outsourcing rather than 24/365 web-readiness. Enthusiastically formulate long-term high-impact niche markets after business infomediaries.</p> 
-
-          <p>Intrinsicly unleash viral opportunities whereas multidisciplinary leadership skills. Authoritatively deliver turnkey web-readiness vis-a-vis backward</p>
+          <h3>Our Vision</h3>
+          <p>Our vision is for the company is to be the most responsive and the quickest value for money local clearing agent/ logistics agent/ transporter products in the Philippines. </p> 
         </div>
       </div><!-- /.col-md-4 -->
     </div><!-- /.row -->
@@ -159,65 +93,9 @@
   <div class="container">
     <div class="text-center">
       <h2 class="section-title">Annual Financial Report</h2>
-      <span class="section-sub">1990 to 2015 Annual report are available for download</span>
+      <!-- <span class="section-sub">1990 to 2015 Annual report are available for download</span> -->
     </div>
-    <div class="annual-report-carousel">
-      <div id="reportCarousel" class="carousel slide" data-ride="carousel">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-          <li data-target="#reportCarousel" data-slide-to="0" class="active"></li>
-          <li data-target="#reportCarousel" data-slide-to="1"></li>
-          <li data-target="#reportCarousel" data-slide-to="2"></li>
-        </ol>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-          <div class="item active">
-          <div class="annual-report clearfix">
-            <div class="report-thumb">
-              <img src="<?php base_url();?>assets/img/annual-thumb.jpg" alt="">
-            </div>
-            <div class="report-info">
-              <h3>Annual Report 2015</h3>
-              <p>Rapidiously actualize multidisciplinary collaboration and idea-sharing whereas installed base action items. Credibly plagiarize tactical outsourcing for progressive products. Quickly redefine corporate strategic theme areas through premium paradigms. Monotonectally promote fully researched schemas whereas process-centric e-business. Holisticly enable bleeding-edge e-services and cross-platform architectures.</p>
-
-              <p>Holisticly maintain web-enabled mindshare vis-a-vis open-source experiences. Objectively exploit cross functional quality vectors vis-a-vis interactive resources. Monotonectally architect professional schemas whereas high-quality materials. Compellingly synthesize reliable initiatives with value-added technologies. Progressively syndicate ethical portals rather than technically sound opportunities.</p>
-
-              <a href="#" class="btn btn-primary">Download Report <i class="fa fa-download"></i></a>
-            </div>
-          </div><!-- /.annual-report -->
-          </div><!--/.item -->
-          <div class="item">
-          <div class="annual-report clearfix">
-            <div class="report-thumb">
-              <img src="<?php base_url();?>assets/img/annual-thumb.jpg" alt="">
-            </div>
-            <div class="report-info">
-              <h3>Annual Report 2015</h3>
-              <p>Rapidiously actualize multidisciplinary collaboration and idea-sharing whereas installed base action items. Credibly plagiarize tactical outsourcing for progressive products. Quickly redefine corporate strategic theme areas through premium paradigms. Monotonectally promote fully researched schemas whereas process-centric e-business. Holisticly enable bleeding-edge e-services and cross-platform architectures.</p>
-
-              <p>Holisticly maintain web-enabled mindshare vis-a-vis open-source experiences. Objectively exploit cross functional quality vectors vis-a-vis interactive resources. Monotonectally architect professional schemas whereas high-quality materials. Compellingly synthesize reliable initiatives with value-added technologies. Progressively syndicate ethical portals rather than technically sound opportunities.</p>
-              <a href="#" class="btn btn-primary">Download Report <i class="fa fa-download"></i></a>
-            </div>
-          </div><!-- /.annual-report -->
-          </div><!--/.item -->
-          <div class="item">
-          <div class="annual-report clearfix">
-            <div class="report-thumb">
-              <img src="<?php base_url();?>assets/img/annual-thumb.jpg" alt="">
-            </div>
-            <div class="report-info">
-              <h3>Annual Report 2015</h3>
-              <p>Rapidiously actualize multidisciplinary collaboration and idea-sharing whereas installed base action items. Credibly plagiarize tactical outsourcing for progressive products. Quickly redefine corporate strategic theme areas through premium paradigms. Monotonectally promote fully researched schemas whereas process-centric e-business. Holisticly enable bleeding-edge e-services and cross-platform architectures.</p>
-
-              <p>Holisticly maintain web-enabled mindshare vis-a-vis open-source experiences. Objectively exploit cross functional quality vectors vis-a-vis interactive resources. Monotonectally architect professional schemas whereas high-quality materials. Compellingly synthesize reliable initiatives with value-added technologies. Progressively syndicate ethical portals rather than technically sound opportunities.</p>
-              <a href="#" class="btn btn-primary">Download Report <i class="fa fa-download"></i></a>
-            </div>
-          </div><!-- /.annual-report -->
-          </div><!--/.item -->
-        </div><!-- /.carousel-inne -->
-      </div><!--/.carousel -->
-    </div><!-- /.annual-report-carousel -->
+    
   </div><!--/.container -->
 </section>
-<!--/.annual-report-section -->
+<!--/.annual-report-section

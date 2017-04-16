@@ -14,14 +14,12 @@
       <div class="container">
         <div class="carousel-caption">
           <small class="animated fadeIn">CALL US TODAY</small>
-          <div class="phone animated lightSpeedIn">1-800-1234-567</div>
-          <h1 class="animated lightSpeedIn">Making transportation fast and safe</h1>
+          <div class="phone animated lightSpeedIn"> 02-519-3391</div>
+          <h1 class="animated lightSpeedIn">Our mission is to make your shipments fast and safe</h1>
 
-          <p class="lead animated lightSpeedIn">It's a tag line, where you can write a key point of your idea.
-            It is a long
-            established fact that a reader will be distracted.</p>
+          <!-- <p class="lead animated lightSpeedIn">Our mission is to make your shipments fast and safe.</p> -->
 
-            <a class="btn btn-primary animated lightSpeedIn" href="#">Work With Us Today</a>
+            <!-- <a class="btn btn-primary animated lightSpeedIn" href="#">Work With Us Today</a> -->
           </div>
           <!--.carousel-caption-->
         </div>
@@ -36,12 +34,12 @@
         <div class="container">
           <div class="carousel-caption">
 
-            <h1 class="animated bounceIn">We value your time and money</h1>
+            <h1 class="animated bounceIn">Equipment you can count on. People you can trust</h1>
 
-            <p class="lead animated bounceIn">It's a tag line, where you can write a key point of your idea. It
+            <!-- <p class="lead animated bounceIn">It's a tag line, where you can write a key point of your idea. It
               is a long
               established fact that a reader will be distracted.</p>
-              <a class="btn btn-primary animated bounceIn" href="#">Work With Us Today</a>
+              <a class="btn btn-primary animated bounceIn" href="#">Work With Us Today</a> -->
             </div>
             <!--.carousel-caption-->
           </div>

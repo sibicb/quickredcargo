@@ -1,0 +1,102 @@
+.overlay-bg {
+  background: linear-gradient(to right, rgba(97, 6, 0, 0.9) 0%,rgba(176, 10, 0, 0.9) 100%,rgba(125, 185, 232, 0.9) 100%) !important;
+}
+.hero-slide .carousel-indicators li.active {
+  border-color: #B00A00 !important;
+  background-color: #B00A00 !important;
+  opacity: 1;
+}
+.section-sub::after {
+  background-color: #B00A00;
+}
+
+.readmore {
+  color: #B00A00 !important;
+
+}
+
+.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav>.active>a:focus {
+  color: #fff;
+  background-color: #B00A00;
+}
+
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.open>a:hover, 
+.navbar-default .navbar-nav>.open>a:focus {
+  color: #fff;
+  background-color: #B00A00;
+}
+
+.nav.navbar-nav li ul.dropdown-menu li a:hover,
+.nav.navbar-nav li ul.dropdown-menu li a:focus {
+  color: #B00A00 !important;
+  background-color: transparent;
+}
+
+.call-to-action ul li a:hover {
+  color: #B00A00;
+}
+
+.btn-primary{
+  background-color: #B00A00 !important;
+}
+.feature-section .btn:hover {
+  background-color: #610600 !important;
+}
+
+
+.css-tab .nav-tabs > li > a:hover, .css-tab .nav-tabs > li > a:focus, .css-tab .nav-tabs > li.active > a, .css-tab .nav-tabs > li.active > a:hover, .css-tab .nav-tabs > li.active > a:focus {
+  background: #B00A00 !important;
+}
+
+#testimonial-carousel .carousel-indicators .active {
+  background-color: #B00A00 !important;
+}
+
+.newsletter-form .form-group button {
+  color: #B00A00 !important;
+}
+
+.widget .service-list li.active a {
+    color: #B00A00 !important;
+}
+.widget li a:hover {
+    color: #B00A00 !important;
+}
+
+.widget .download-wrap a:hover {
+    border: 2px solid #B00A00 !important;
+}
+
+.copyright-info>span>a {
+    color: #B00A00 !important;
+}
+
+#toTop {
+  color: #B00A00;
+}
+#toTop:hover {
+
+  background-color: #B00A00;
+}
+
+.newsletter-form .form-group .form-control:focus {
+  border-color: #B00A00;
+}
+
+.service-blocks .service-block:hover .service-icon i {
+    background: #B00A00 !important;
+}
+.service-blocks .service-block .service-content h3 a:hover {
+    color: #B00A00 !important;
+}
+
+.footer-widget ul li a:hover {
+    color: #B00A00 !important;
+  }
+/*.fa-caret-right {
+  color: #B00A00 !important;
+}*/
