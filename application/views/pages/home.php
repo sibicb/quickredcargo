@@ -123,7 +123,7 @@
 
     <p>Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</p>
 
-    <a href="#" class="btn btn-primary">View Details</a>
+   <!--  <a href="#" class="btn btn-primary">View Details</a> -->
   </div>
 
 </div>
