@@ -833,7 +833,8 @@ ABOUT PAGE
   font-size: 48px;
   font-weight: 700;
   line-height: 50px;
-  font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
+  /*font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;*/
+  font-family: 'Ubuntu', sans-serif;
   color: #ccc;
   margin-bottom: 5px;
 }
@@ -841,7 +842,8 @@ ABOUT PAGE
 .history-year .title {
   display: block;
   font-weight: 400;
-  font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
+  /*font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;*/
+  font-family: 'Ubuntu', sans-serif;f
   color: #606676;
   text-transform: uppercase;
   margin-bottom: 70px;
@@ -1161,7 +1163,8 @@ OUR PEOPLE
   font-size: 18px;
   line-height: 28px;
   font-weight: 600;
-  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  /*font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;*/
 }
 
 .team {
@@ -1275,7 +1278,8 @@ OUR PEOPLE
 .member-info h3 {
   line-height: 24px;
   text-transform: uppercase;
-  font-family: Source Sans Pro;
+  /*font-family: Source Sans Pro;*/
+  font-family: 'Ubuntu', sans-serif;
   font-size: 16px;
   font-weight: 700;
   margin: 0;

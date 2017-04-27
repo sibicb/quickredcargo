@@ -15,6 +15,15 @@
 
 }
 
+.navbar {
+  box-shadow: none !important; 
+}
+
+.hero-slide .carousel-caption h1 {
+  color: #B00A00 !important;
+  font-size: 40px !important;
+}
+
 .navbar-default .navbar-nav>li>a:hover, 
 .navbar-default .navbar-nav>.active>a, 
 .navbar-default .navbar-nav>.active>a:hover, 
@@ -100,3 +109,50 @@
 /*.fa-caret-right {
   color: #B00A00 !important;
 }*/
+
+
+.feature-section2 h2 {
+  color: #B00A00 !important;
+}
+
+.feature-section p {
+  color: #000 !important;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  
+  color: #B00A00;
+}
+
+p, address{
+  color: #000;
+}
+
+.section-sub {
+  color: #000 !important;
+}
+
+.footer-widget ul li a {
+  color: #000;
+}
+
+.css-tab .nav-tabs>li>a i {
+  color: #000 !important;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #000;
+}
+
+.hero-slide .carousel-caption small {
+  color: #000 !important;
+}
+
+.widget li a {
+  color: #000;
+}
+
+.service-blocks .service-block .service-content h3 a {
+  color: #000 !important;
+}

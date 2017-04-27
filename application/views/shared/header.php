@@ -8,7 +8,8 @@
   <meta name="author" content="">
 
   <title>Quick Red Cargo Link, Inc.</title>
-  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
+  <!-- <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'> -->
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet">
   <link href="<?php  base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
   <!-- Flaticon CSS -->
   <link href="<?php  base_url();?>assets/fonts/flaticon/flaticon.css" rel="stylesheet">
