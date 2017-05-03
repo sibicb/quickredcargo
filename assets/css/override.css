@@ -11,7 +11,7 @@
 }
 
 .readmore {
-  color: #B00A00 !important;
+  color: #fff !important;
 
 }
 
@@ -66,7 +66,7 @@
 }
 
 .newsletter-form .form-group button {
-  color: #B00A00 !important;
+  color: #fff !important;
 }
 
 .widget .service-list li.active a {
@@ -122,19 +122,19 @@
 
 h1, h2, h3, h4, h5, h6 {
   
-  color: #B00A00;
+  color: #fff;
 }
 
 p, address{
-  color: #000;
+  color: #fff;
 }
 
 .section-sub {
-  color: #000 !important;
+  color: #fff !important;
 }
 
 .footer-widget ul li a {
-  color: #000;
+  color: #fff;
 }
 
 .css-tab .nav-tabs>li>a i {
@@ -155,4 +155,16 @@ p, address{
 
 .service-blocks .service-block .service-content h3 a {
   color: #000 !important;
+}
+
+section.service-home.service-home2.section-padding {
+  background: #B00A00 !important;
+}
+
+section.footer-widget-section.section-padding {
+  background: #B00A00 !important;
+}
+
+.history-section {
+  background-color: #B00A00 !important;
 }
