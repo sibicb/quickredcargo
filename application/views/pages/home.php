@@ -59,8 +59,7 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12 text-center">
-            <h2 class="section-title">Our 24 Hour’s Services</h2>
-            <span class="section-sub">Nullam ac urna ey felis dapibus<br> condimeytum sit amet</span>
+            <h2 class="section-title">Our Services</h2>
           </div>
         </div> <!-- /.row -->
 
