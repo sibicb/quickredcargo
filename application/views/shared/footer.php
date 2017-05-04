@@ -76,7 +76,7 @@
   <!-- cta end -->
 
   <!-- footer-widget-section start -->
-  <section class="footer-widget-section section-padding">
+  <section class="footer-widget-section section-padding" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row">
         <div class="col-md-3 col-md-offset-1 col-sm-4">
