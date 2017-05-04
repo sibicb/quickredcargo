@@ -1,5 +1,8 @@
+body {
+  background: url(../img/grid.png) !important;
+}
 .overlay-bg {
-  background: linear-gradient(to right, rgba(97, 6, 0, 0.9) 0%,rgba(176, 10, 0, 0.9) 100%,rgba(125, 185, 232, 0.9) 100%) !important;
+  background: linear-gradient(to right, rgba(97, 6, 0, 0.9) 100%,rgba(176, 10, 0, 0.9) 100%,rgba(125, 185, 232, 0.9) 100%) !important;
 }
 .hero-slide .carousel-indicators li.active {
   border-color: #B00A00 !important;
@@ -11,7 +14,7 @@
 }
 
 .readmore {
-  color: #B00A00 !important;
+  color: #fff !important;
 
 }
 
@@ -66,7 +69,7 @@
 }
 
 .newsletter-form .form-group button {
-  color: #B00A00 !important;
+  color: #fff !important;
 }
 
 .widget .service-list li.active a {
@@ -122,19 +125,19 @@
 
 h1, h2, h3, h4, h5, h6 {
   
-  color: #B00A00;
+  color: #fff;
 }
 
 p, address{
-  color: #000;
+  color: #fff;
 }
 
 .section-sub {
-  color: #000 !important;
+  color: #fff !important;
 }
 
 .footer-widget ul li a {
-  color: #000;
+  color: #fff;
 }
 
 .css-tab .nav-tabs>li>a i {
@@ -155,4 +158,39 @@ p, address{
 
 .service-blocks .service-block .service-content h3 a {
   color: #000 !important;
+}
+
+/*section.service-home.service-home2.section-padding {
+  background: #B00A00 !important;
+}*/
+
+section.footer-widget-section.section-padding {
+  padding: 100px 0;
+  background: url(../img/counter-bg.jpg) no-repeat center top fixed;
+  background-size: cover;
+}
+
+.history-section {
+  background-color: #B00A00 !important;
+}
+
+
+.footer-section {
+  padding: 100px 0;
+  background: url(../img/counter-bg.jpg) no-repeat center top fixed;
+  background-size: cover;
+}
+
+.mission-section {
+  /*background: url(https://newevolutiondesigns.com/images/freebies/red-wallpaper-29.jpg) no-repeat center top fixed;*/
+  background-size: cover;
+}
+
+.page-header {
+  text-align: center;
+  border-bottom: 1px solid white;
+}
+
+.breadcrumb a:hover {
+  color: #000;
 }
