@@ -10,7 +10,7 @@ body {
   opacity: 1;
 }
 .section-sub::after {
-  background-color: #B00A00;
+  background-color: #fff;
 }
 
 .readmore {
@@ -23,8 +23,12 @@ body {
 }
 
 .hero-slide .carousel-caption h1 {
-  color: #B00A00 !important;
-  font-size: 40px !important;
+  /*font-size: 40px !important;*/
+}
+.hero-slide .carousel-caption {
+  border-radius: 5px;
+  background-color: rgba(96,102,118, 0.3) !important;
+  padding: 20px 26px;
 }
 
 .navbar-default .navbar-nav>li>a:hover, 
@@ -157,7 +161,7 @@ p, address{
 }
 
 .service-blocks .service-block .service-content h3 a {
-  color: #000 !important;
+  color: #fff !important;
 }
 
 /*section.service-home.service-home2.section-padding {

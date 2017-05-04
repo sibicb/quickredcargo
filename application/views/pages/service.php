@@ -66,7 +66,7 @@
               <i class="flaticon-logistics16"></i>
             </div>
             <div class="service-content">   
-              <h3><a href="air.html">Air transportation</a></h3>
+              <h3><a href="<?php site_url();?>international">International</a></h3>
               <p>Dynamically leverage existing synergistic systems whereas future-proof sources Synergistically formulate</p>
             </div>
           </div><!-- /.service-block -->
@@ -77,7 +77,7 @@
               <i class="flaticon-platform12"></i>
             </div>
             <div class="service-content">   
-              <h3><a href="marine.html">Marine transportation</a></h3>
+              <h3><a href="<?php site_url();?>domestic">Domestic</a></h3>
               <p>Distinctively parallel task backward-compatible innovation and ubiquitous methodologies. Quickly create</p>
             </div>
           </div><!-- /.service-block -->
@@ -88,7 +88,7 @@
               <i class="flaticon-package27"></i>
             </div>
             <div class="service-content">   
-              <h3><a href="trucking.html">Trucking</a></h3>
+              <h3><a href="<?php site_url();?>land">Land Transport</a></h3>
               <p>Uniquely supply collaborative schemas via fully researched metrics. Credibly exploit</p>
             </div>
           </div><!-- /.service-block -->
@@ -101,20 +101,8 @@
               <i class="flaticon-logistics18"></i>
             </div>
             <div class="service-content">   
-              <h3><a href="moving.html">Moving & storage</a></h3>
+              <h3><a href="<?php site_url();?>warehouse">Warehousing</a></h3>
               <p>Authoritatively reconceptualize client-based e-services after high-quality strategic theme areas.</p>
-
-            </div>
-          </div><!-- /.service-block -->
-        </div><!-- /.col-sm-4 -->
-        <div class="col-sm-4">
-          <div class="service-block clearfix">
-            <div class="service-icon">
-              <i class="flaticon-logistics42"></i>
-            </div>
-            <div class="service-content">   
-              <h3><a href="shipping.html">Shipping & operations</a></h3>
-              <p> Enthusiastically extend effective information and technically sound collaboration and idea-sharing. </p>
 
             </div>
           </div><!-- /.service-block -->
@@ -125,7 +113,7 @@
               <i class="flaticon-callcenter"></i>
             </div>
             <div class="service-content">   
-              <h3><a href="transportation.html">Transportation logistics</a></h3>
+              <h3><a href="<?php site_url();?>brokerage">Custom Brokerage</a></h3>
               <p>Holisticly synergize maintain able intell ectual capital viral interfaces capital synergize maintain. </p>
 
             </div>

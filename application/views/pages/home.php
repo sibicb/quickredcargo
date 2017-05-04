@@ -71,9 +71,9 @@
                 <a href="#"><img src="<?php  base_url();?>assets/img/service/thumbgrid1.png" alt=""></a>
               </div>
 
-              <h3>Transportation &amp; Logistics</h3>
-              <p>Holisticly synergize maintainable intellectual<br> capital via viral interfaces. Energistically<br> embrace funyctionalized </p>
-              <a class="readmore" href="#">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
+              <h3>Land Transport</h3>
+              <p>Quick Red Cargo Link, Inc. also caters services overland. Our multi type trucks is acquired that all shipments are delivered fast and safe.</p>
+             <a class="readmore" href="<?php site_url();?>land">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
             </div>
           </div><!-- /.col-sm-4 -->
 
@@ -82,9 +82,9 @@
               <div class="service-thumb-home thumb-grid">
                 <a href="#"><img src="<?php  base_url();?>assets/img/service/thumbgrid2.png" alt=""></a>
               </div>
-              <h3>Moving &amp; Storage</h3>
-              <p>Holisticly synergize maintainable intellectual<br> capital via viral interfaces. Energistically<br> embrace functionalized </p>
-              <a class="readmore" href="#">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
+              <h3>Domestic</h3>
+              <p>We provide the best transit time available, cargo allocation and competitive rates that will surely have cost savings.</p>
+              <a class="readmore" href="<?php site_url();?>domestic">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
             </div>
 
           </div><!-- /.col-sm-4 -->
@@ -94,9 +94,9 @@
               <div class="service-thumb-home thumb-grid">
                 <a href="#"><img src="<?php  base_url();?>assets/img/service/thumbgrid3.png" alt=""></a>
               </div>
-              <h3>Shipping Operations</h3>
-              <p>Holisticly synergize maintainable intellectual<br> capital via viral interfaces. Energistically<br> embrace functionalized </p>
-              <a class="readmore" href="#">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
+              <h3>International</h3>
+              <p>We offer reliable and competitive international freight forwarding solutions that support your continual growth and expansion in old and new markets.</p>
+              <a class="readmore" href="<?php site_url();?>international">Read More &nbsp;<i class="fa fa-angle-right"></i> </a>
             </div>
           </div><!-- /.col-sm-4 -->
         </div> <!-- /.row -->
@@ -105,7 +105,7 @@
     <!-- services end -->
 
     <!-- featuer-section start -->
-    <section class="feature-section feature-section2">
+    <!-- <section class="feature-section feature-section2">
       <div class="container">
         <div class="row">
           <div class="col-sm-7 col-xs-12">
@@ -120,7 +120,7 @@
 
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- featuer-section end -->
 
     <!-- why-us-setion start -->

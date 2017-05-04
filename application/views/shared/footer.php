@@ -75,7 +75,6 @@
   <!-- /.cta-section -->
   <!-- cta end -->
 
-  <!-- footer-widget-section start -->
   <section class="footer-widget-section section-padding" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row">
@@ -147,8 +146,8 @@
   </section><!-- /.cta-section -->
   <!-- footer-widget-section end -->
 
-  <!-- copyright-section start -->
-  <footer class="copyright-section">
+<!-- copyright-section start -->
+<footer class="copyright-section">
     <div class="container text-center">
     <!-- <div class="footer-menu">
       <ul>
@@ -163,89 +162,72 @@
       </div>
     </div><!-- /.container -->
   </footer>
-  <!-- copyright-section end -->
+<!-- copyright-section end -->
 </div> <!-- .st-content -->
 </div> <!-- .st-pusher -->
 
 <!-- OFFCANVAS MENU -->
 <div class="offcanvas-menu offcanvas-effect">
-  <div class="offcanvas-wrap">
-   <!--  <div class="off-canvas-header">
-      <button type="button" class="close" aria-hidden="true" data-toggle="offcanvas" id="off-canvas-close-btn">&times;</button>
-    </div> -->
-    <ul id ="offcanvasMenu" class="list-unstyled visible-xs visible-sm">
-      <li><a href="index.html">Home<span class="sr-only">(current)</span></a></li>
-      <li>
-        <a href="#">Pages</a>
-        <ul>
-          <li class="active"><a href="about.html">About</a></li>
-          <li><a href="service.html">Service</a></li>
-          <li><a href="our-people.html">Our people</a></li>
-          <li><a href="career.html">Career</a></li>
-          <li><a href="faq.html">FAQ Page</a></li>
-          <li><a href="typography.html">Typography</a></li>
-        </ul>
-
-      </li>
-      <li>
-        <a href="#">Services</a>
-        <ul>
-          <li><a href="air.html">Air transportation</a></li>
-          <li><a href="marine.html">Marine transportation</a></li>
-          <li><a href="moving.html">Moving &amp; storage</a></li>
-          <li><a href="shipping.html">Shipping &amp; operations</a></li>
-          <li><a href="transportation.html">Transportation logistics</a></li>
-          <li><a href="trucking.html">Trucking</a></li>
-        </ul>
-
-      </li>
-      <!-- <li>
-        <a href="#">Blog</a>
-        <ul>
-          <li>
-            <a href="blog.html">Standard blog</a>
-          </li>
-          <li>
-            <a href="blog-single.html">Single blog</a>
-          </li>
-        </ul> -->
-      </li>
-      <li><a href="contact.html">Contact</a></li>
-      <li><a href="typography.html">Typography</a></li>
-    </ul>
-  <!--   <div class="offcanvas-widgets hidden-sm hidden-xs">
-      <div id="twitterWidget">
-        <h2>Tweeter feed</h2>             
-        <div class="twitter-widget"></div>
-      </div>
-      <div class="newsletter-widget">
-        <h2>Stay in Touch</h2>
-        <p>Enter your email address to receive news &amp; offers from us</p>
-
-        <form class="newsletter-form">
-          <div class="form-group">
-            <label class="sr-only" for="InputEmail1">Email address</label>
-            <input type="email" class="form-control" id="InputEmail2" placeholder="Your email address">
-            <button type="submit" class="btn">Send &nbsp;<i class="fa fa-angle-right"></i></button>
-          </div>
-        </form>   
-
-      </div>
-    </div> -->
-
+ <div class="offcanvas-wrap">
+   <div class="off-canvas-header">
+    <button type="button" class="close" aria-hidden="true" data-toggle="offcanvas" id="off-canvas-close-btn">&times;</button>
   </div>
+  <ul id ="offcanvasMenu" class="list-unstyled visible-xs visible-sm">
+  <li><a href="<?php site_url();?>home">Home</a></li>
+   <li>
+    <a href="#">Pages</a>
+    <ul>
+      <li><a href="<?php  site_url();?>about">About</a></li>
+      <li><a href="<?php  site_url();?>service">Service</a></li>
+    </ul>
+
+  </li>
+  <li>
+    <a href="#">Services</a>
+    <ul>
+      <li><a href="<?php site_url();?>brokerage">Customs Brokerage</a></li>
+      <li><a href="<?php site_url();?>domestic">Domestic</a></li>
+      <li><a href="<?php site_url();?>international">International</a></li>
+      <li><a href="<?php site_url();?>land">Land Transport</a></li>
+      <li><a href="<?php site_url();?>warehouse">Warehouse</a></li>
+    </ul>
+
+  </li>
+ <li><a href="<?php site_url();?>contact">Contact</a></li>
+</ul>
+<div class="offcanvas-widgets hidden-sm hidden-xs">
+  <div id="twitterWidget">
+   <h2>Tweeter feed</h2>              
+   <div class="twitter-widget"></div>
+ </div>
+ <div class="newsletter-widget">
+   <h2>Stay in Touch</h2>
+   <p>Enter your email address to receive news &amp; offers from us</p>
+
+   <form class="newsletter-form">
+    <div class="form-group">
+     <label class="sr-only" for="InputEmail1">Email address</label>
+     <input type="email" class="form-control" id="InputEmail2" placeholder="Your email address">
+     <button type="submit" class="btn">Send &nbsp;<i class="fa fa-angle-right"></i></button>
+   </div>
+ </form>    
+ 
+</div><!-- newsletter-widget -->
+</div>
+
+</div>
 </div><!-- .offcanvas-menu -->
 </div><!-- /st-container -->
 
 
 <!-- Preloader -->
 <div id="preloader">
-  <div id="status">
-    <div class="status-mes"></div>
-  </div>
+ <div id="status">
+  <div class="status-mes"></div>
+</div>
 </div>
 
-<!-- jQuery -->
+
 <script src="<?php  base_url();?>assets/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="<?php  base_url();?>assets/js/bootstrap.min.js"></script>
