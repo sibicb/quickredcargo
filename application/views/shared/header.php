@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Unship</title>
+  <title>Quick Red Cargo Inc.</title>
   <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet">
   <link href="<?php  base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
   <!-- Flaticon CSS -->
