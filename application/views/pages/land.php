@@ -59,6 +59,13 @@
           <p><i class="fa fa-caret-right" aria-hidden="true"></i> 6 Wheeler</p>
           <p><i class="fa fa-caret-right" aria-hidden="true"></i> 10 Wheeler wing van</p>
           <p><i class="fa fa-caret-right" aria-hidden="true"></i> Tractor Head</p>
+          <h2>Containerized Hauling / Trucking</h2>
+          <h4>Moving cargoes is now easy with Ernest Logistics Corporation. Our company has a wholly owned trucking fleet which are all in excellent condition and properly maintained by our professional team.</h4>
+          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pick-Up</p>
+          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Delivery</p>
+
+
+
 
         </div><!-- /.col -->
       </div><!-- /.row -->

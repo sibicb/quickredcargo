@@ -61,7 +61,37 @@
             <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Door</p>
             <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Pier</p>
             <p><i class="fa fa-caret-right" aria-hidden="true"></i> Full Container Load (FCL)</p>
-            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Less than Full Load (LCL)</p>
+            <div class="right">
+              <p>General cargoes that can fill a container van with different variations such as standard ten (10), twenty (20) and 40 (forty) dry container vans. Clients have the option to the following mode of services for convenience and comfort:</p>
+              <div class="right">
+               <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Door </p>
+               <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pier to Door</p>
+               <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Pier</p>
+               <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pier to Pier</p>
+              </div>
+            </div>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Less than Container Load (LCL)</p>
+            <div class="right">
+              <p>General cargoes that are smaller and could not fill up a container van is classified as Less than Container Load cargoes (LCL) which is handle and shipped based on the cargos’ actual dimensions.</p>
+              <div class="right">
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Door</p>
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pier to Door</p>
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Pier</p>
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pier to Pier</p>
+              </div>
+            </div>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Loose Cargoes</p>
+            <div class="right">
+              <p> Cargoes that are bigger and can no longer fit in container vans are considered loose cargoes and are handle and shipped based on the cargos’ actual dimensions, weight, and value per cubic meter.</p>
+              <div class="right">
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Door</p>
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pier to Door</p>
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Pier</p>
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pier to Pier</p>
+              </div>
+            </div>
+
+
 
           </div><!-- /.col -->
         </div><!-- /.row -->
