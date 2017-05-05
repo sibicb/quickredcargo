@@ -90,7 +90,7 @@
               <!-- Google Map Modal Trigger -->
               <!-- <button type="button" class="modal-map" data-toggle="modal" data-target="#cssMapModal">Location  Map</button> -->
 
-              <span class="tel">(02) 519-3391</span>
+              <span class="tel">(02) 519-3391<br>+63 917 854 8368</span>
             </address>
 
 

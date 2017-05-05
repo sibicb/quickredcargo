@@ -198,3 +198,19 @@ section.footer-widget-section.section-padding {
 .breadcrumb a:hover {
   color: #000;
 }
+
+.service-sidebar.sidebar-wrapper h2 {
+  color: #000;
+
+}
+
+.textwidget > p {
+  color: #000;
+  font-size: 14px;
+}
+
+.footer-widget-section address .tel::before {
+  background-color: #fff !important;
+
+
+}

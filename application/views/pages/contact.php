@@ -68,6 +68,7 @@
             Pascor Drive Santo Niño<br>
             Parañaque City, Metro Manila 1704 <br>
             Phone: +63 02 5193391<br>
+            Mobile: +63 917 854 8368<br>
             Email: admin@quickredcargo.com<br>
             </address>
 

@@ -51,9 +51,7 @@
             <h2 class="widget-title">Office Hours</h2>
             <div class="textwidget">
               <p>Monday -
-                Friday: 9:00 - 18:00<br>
-                Saturday: 9:00 - 2:00<br>
-                Holidays: 9:00 - 12:00</p>
+                Friday: 9:00 AM - 6:00 PM<br>
               </div>
             </div><!-- /.widget -->
           </div><!-- /.sidebar-wrapper -->
