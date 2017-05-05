@@ -193,6 +193,7 @@ section.footer-widget-section.section-padding {
 .page-header {
   text-align: center;
   border-bottom: 1px solid white;
+  padding: 21px 10px;
 }
 
 .breadcrumb a:hover {

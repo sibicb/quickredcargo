@@ -115,7 +115,7 @@
 
         <div class="col-md-3 col-sm-4">
           <div class="footer-widget">
-            <h3>About Transport</h3>
+            <h3>About Quick Red</h3>
 
             <ul>
               <li><a href="<?php  site_url();?>about">About</a></li>
