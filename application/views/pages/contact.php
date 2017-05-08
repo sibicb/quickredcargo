@@ -25,7 +25,8 @@
         <div class="col-md-7">
           <div class="contact-map">
             <h3>Contact Form</h3>
-            <form id="mainContact" action="sendemail.php" method="POST">
+            <?php $this->session->flashdata('success');?>
+            <form id="mainContact" action="<?php echo base_url();?>pages/sendemail" method="POST">
               <div class="form-group">
                 <label for="name">Name</label>
                 <input name="name" type="text" class="form-control"  required="" placeholder="">
