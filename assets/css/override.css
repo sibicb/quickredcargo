@@ -228,3 +228,6 @@ section.footer-widget-section.section-padding {
 .right {
   margin-left: 30px;
 }
+.form-control , label {
+color: #fff !important;
+}
