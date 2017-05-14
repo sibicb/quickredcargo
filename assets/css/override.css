@@ -231,3 +231,8 @@ section.footer-widget-section.section-padding {
 .form-control , label {
 color: #fff !important;
 }
+
+a.navbar-brand > img {
+    /* margin: -3px -84px; */
+    margin-top: -30px;
+}
