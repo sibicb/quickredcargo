@@ -52,7 +52,7 @@
       <div class="col-md-9 col-sm-7 col-xs-12">
         <div class="single-service-content">
           <div class="single-service-thumb">
-            <img src="<?php base_url();?>assets/img/service/airthumb.jpg" alt="image"/>
+            <img src="<?php base_url();?>assets/img/service/vessel.png" alt="image"/>
           </div>
           <h3>International(Import)</h3>
           <p><i class="fa fa-caret-right" aria-hidden="true"></i> Air</p>

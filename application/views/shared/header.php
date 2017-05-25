@@ -104,7 +104,7 @@
   <div class="container mainnav">
    <div class="navbar-header">
     <h1 class="logo">
-      <a class="navbar-brand" href="<?php site_url();?>"><img src="<?php  base_url();?>assets/img/logo.png" alt=""></a>
+      <a class="navbar-brand" href="<?php site_url();?>home"><img src="<?php  base_url();?>assets/img/logo.png" alt=""></a>
     </h1>
     <!-- offcanvas-trigger -->
 

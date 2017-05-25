@@ -8,7 +8,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="<?php  base_url();?>assets/img/slider/slide-1.jpg" alt="Hero Slide">
+      <img src="<?php  base_url();?>assets/img/slider/slide-3.png" alt="Hero Slide">
       <!--Slide Image-->
 
       <div class="container">
@@ -25,7 +25,7 @@
       <!--.item-->
 
       <div class="item">
-        <img src="<?php  base_url();?>assets/img/slider/slide-2.jpg" alt="Hero Slide">
+        <img src="<?php  base_url();?>assets/img/slider/slide-4.png" alt="Hero Slide">
         <!--Slide Image-->
 
         <div class="container">

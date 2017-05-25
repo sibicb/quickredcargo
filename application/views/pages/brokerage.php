@@ -60,6 +60,7 @@
             <p><i class="fa fa-caret-right" aria-hidden="true"></i> Transportation Clearance</p>
             <p><i class="fa fa-caret-right" aria-hidden="true"></i> Entity processing for all commodities</p>
             <p><i class="fa fa-caret-right" aria-hidden="true"></i> Fast Customs Clearing</p>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Special Cargo Handling</p>
     
           </div><!-- /.single-service-content -->
 

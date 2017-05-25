@@ -54,7 +54,7 @@
           <div class="single-service-thumb">
             <img src="<?php base_url();?>assets/img/service/movingthumb2.png" alt="image"/>
           </div>
-          <h3>We are very excited to inform you that Quick Red Cargo Link, Inc. will be expanding warehouse facilities located at Muntinlupa City to cater your short and long term storage requirements. </h3>
+          <h3>We are very excited to inform you that Quick Red Cargo Link, Inc. will be expanding warehouse facilities located at Las Pinas City to cater your short and long term storage requirements. </h3>
         </div><!-- /.col -->
       </div><!-- /.row -->
     </div><!-- /.container -->

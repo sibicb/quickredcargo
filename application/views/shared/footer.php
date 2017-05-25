@@ -86,7 +86,7 @@
               U-b OCS Building L-6<br>
               Sta. Agueda Avenue<br>
               Pascor Drive Santo Niño<br>
-              Parañaque City, Metro Manila 1704 <br>
+              Las Piñas City, Metro Manila 1704 <br>
               <!-- Google Map Modal Trigger -->
               <!-- <button type="button" class="modal-map" data-toggle="modal" data-target="#cssMapModal">Location  Map</button> -->
 

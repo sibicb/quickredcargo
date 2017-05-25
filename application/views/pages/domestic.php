@@ -54,6 +54,13 @@
             <div class="single-service-thumb">
             <img src="<?php base_url();?>assets/img/service/domestic.png" alt="image"/>
             </div>
+            <h2> Domestic Agents</h2>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Cebu</p>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Iloilo</p>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Cagayan de Oro</p>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Bacolod</p>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> General Santos</p>
+            <p><i class="fa fa-caret-right" aria-hidden="true"></i> Zamboanga</p>
             <h2>Air Freight</h2>
             <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Door</p>
             <p><i class="fa fa-caret-right" aria-hidden="true"></i> Door to Airport</p>
