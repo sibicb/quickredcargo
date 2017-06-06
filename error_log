@@ -1,4 +1,0 @@
-[08-May-2017 04:47:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/quickredcargo/public_html/quickredcargo/application/controllers/Pages.php on line 58
-[08-May-2017 04:48:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/quickredcargo/public_html/quickredcargo/application/controllers/Pages.php on line 58
-[08-May-2017 04:48:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/quickredcargo/public_html/quickredcargo/application/controllers/Pages.php on line 58
-[08-May-2017 05:43:11 UTC] PHP Parse error:  syntax error, unexpected 'smtp_pass' (T_STRING) in /home/quickredcargo/public_html/quickredcargo/application/controllers/Pages.php on line 41

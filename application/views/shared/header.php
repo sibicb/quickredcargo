@@ -150,7 +150,7 @@
  <!-- /Pages -->
 
  <!-- Services -->
- <li class="dropdown <?php if($this->uri->segment(1) == "air" || $this->uri->segment(1) == "marine" || $this->uri->segment(1) == "moving" || $this->uri->segment(1) == "shipping" || $this->uri->segment(1) == "transportation" || $this->uri->segment(1) == "trucking" || $this->uri->segment(1) == "brokerage" || $this->uri->segment(1) == "domestic" || $this->uri->segment(1) == "international" || $this->uri->segment(1) == "land" || $this->uri->segment(1) == "warehouse"){echo "active";}?>""><a href="#">Services <span class="fa fa-angle-down"></span></a>
+ <li class="dropdown <?php if($this->uri->segment(1) == "air" || $this->uri->segment(1) == "marine" || $this->uri->segment(1) == "moving" || $this->uri->segment(1) == "shipping" || $this->uri->segment(1) == "transportation" || $this->uri->segment(1) == "trucking" || $this->uri->segment(1) == "brokerage" || $this->uri->segment(1) == "domestic" || $this->uri->segment(1) == "international" || $this->uri->segment(1) == "land" || $this->uri->segment(1) == "warehouse"|| $this->uri->segment(1) == "packing" || $this->uri->segment(1) == "special_cargo" || $this->uri->segment(1) == "project_cargo"){echo "active";}?>""><a href="#">Services <span class="fa fa-angle-down"></span></a>
   <!-- submenu-wrapper -->
   <div class="submenu-wrapper">
     <div class="submenu-inner">
@@ -166,6 +166,9 @@
            <li><a href="<?php site_url();?>international">International</a></li>
            <li><a href="<?php site_url();?>land">Land Transport</a></li>
            <li><a href="<?php site_url();?>warehouse">Warehouse</a></li>
+           <li><a href="<?php site_url();?>packing">Packing and Crating</a></li>
+           <li><a href="<?php site_url();?>special_cargo">Special Cargo Transfer</a></li>
+           <li><a href="<?php site_url();?>project_cargo">Project Cargo Consultation</a></li>
          </ul>
        </div>
      </div>

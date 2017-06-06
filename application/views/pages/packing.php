@@ -4,11 +4,11 @@
       <div class="col-xs-12">
         <div class="page-header-wrap">
           <div class="page-header">
-            <h1>Land Transport</h1>
+            <h1>Packing and Crating</h1>
           </div>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
-            <li class="active">Land Transport</li>
+            <li class="active">Packing and Crating</li>
           </ol>
         </div>
       </div>
@@ -35,9 +35,9 @@
             <li><a href="<?php site_url();?>brokerage" class="icon-store">Customs Brokerage</a></li>
             <li><a href="<?php site_url();?>domestic" class="icon-shipping">Domestic</a></li>
             <li><a href="<?php site_url();?>international" class="icon-air">International</a></li>
-            <li class="active"><a href="<?php site_url();?>land" class="icon-trucking">Land Transport</a></li>
-            <li><a href="<?php site_url();?>warehouse" class="icon-transportation">Warehouse</a></li>
-            <li class=""><a href="<?php site_url();?>packing" class="icon-store">Packing and Crating</a></li>
+            <li><a href="<?php site_url();?>land" class="icon-trucking">Land Transport</a></li>
+            <li class=""><a href="<?php site_url();?>warehouse" class="icon-transportation">Warehouse</a></li>
+            <li class="active"><a href="<?php site_url();?>packing" class="icon-store">Packing and Crating</a></li>
             <li class=""><a href="<?php site_url();?>special_cargo" class="icon-trucking">Special Cargo Transfer</a></li>
             <li class=""><a href="<?php site_url();?>project_cargo" class="icon-marine">Project Cargo Consultation</a></li>
           </ul>
@@ -55,21 +55,19 @@
       <div class="col-md-9 col-sm-7 col-xs-12">
         <div class="single-service-content">
           <div class="single-service-thumb">
-            <img src="<?php base_url();?>assets/img/service/truckingthumb.png" alt="image"/>
+            <img src="<?php base_url();?>assets/img/service/logisticthumb.png" alt="image"/>
           </div>
-          <h3>Quick Red Cargo Link, Inc. also caters services overland. Our multi type trucks is acquired that all shipments are delivered fast and safe.</h3>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> 4 Wheeler</p>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> 6 Wheeler</p>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> 10 Wheeler wing van</p>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Tractor Head</p>
-          <h2>Containerized Hauling / Trucking</h2>
-          <h4>Moving cargoes is now easy with Quick Red Cargo Link Inc.. Our company has a wholly owned trucking fleet which are all in excellent condition and properly maintained by our professional team.</h4>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pick-Up</p>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Delivery</p>
-
-
-
-
+            <h2> Our packing services for project cargo include:</h2>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Crating</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Hood boxing</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Corrugated boxing</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Strapping, skidding and bundling</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Banding and recouping</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Stretch wrapping</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Dangerous goods/hazardous materials</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Out-of-gauge/breakbulk</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> Vehicles, construction equipment and other rolling stock</p>
+              <p><i class="fa fa-caret-right" aria-hidden="true"></i> On-site packing services</p>
         </div><!-- /.col -->
       </div><!-- /.row -->
     </div><!-- /.container -->

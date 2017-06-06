@@ -4,11 +4,11 @@
       <div class="col-xs-12">
         <div class="page-header-wrap">
           <div class="page-header">
-            <h1>Land Transport</h1>
+            <h1>Special Cargo Transfer</h1>
           </div>
           <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
-            <li class="active">Land Transport</li>
+            <li class="active">Special Cargo Transfer</li>
           </ol>
         </div>
       </div>
@@ -35,10 +35,10 @@
             <li><a href="<?php site_url();?>brokerage" class="icon-store">Customs Brokerage</a></li>
             <li><a href="<?php site_url();?>domestic" class="icon-shipping">Domestic</a></li>
             <li><a href="<?php site_url();?>international" class="icon-air">International</a></li>
-            <li class="active"><a href="<?php site_url();?>land" class="icon-trucking">Land Transport</a></li>
-            <li><a href="<?php site_url();?>warehouse" class="icon-transportation">Warehouse</a></li>
+            <li><a href="<?php site_url();?>land" class="icon-trucking">Land Transport</a></li>
+            <li class=""><a href="<?php site_url();?>warehouse" class="icon-transportation">Warehouse</a></li>
             <li class=""><a href="<?php site_url();?>packing" class="icon-store">Packing and Crating</a></li>
-            <li class=""><a href="<?php site_url();?>special_cargo" class="icon-trucking">Special Cargo Transfer</a></li>
+            <li class="active"><a href="<?php site_url();?>special_cargo" class="icon-trucking">Special Cargo Transfer</a></li>
             <li class=""><a href="<?php site_url();?>project_cargo" class="icon-marine">Project Cargo Consultation</a></li>
           </ul>
         </div><!-- /.widget -->
@@ -57,19 +57,16 @@
           <div class="single-service-thumb">
             <img src="<?php base_url();?>assets/img/service/truckingthumb.png" alt="image"/>
           </div>
-          <h3>Quick Red Cargo Link, Inc. also caters services overland. Our multi type trucks is acquired that all shipments are delivered fast and safe.</h3>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> 4 Wheeler</p>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> 6 Wheeler</p>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> 10 Wheeler wing van</p>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Tractor Head</p>
-          <h2>Containerized Hauling / Trucking</h2>
-          <h4>Moving cargoes is now easy with Quick Red Cargo Link Inc.. Our company has a wholly owned trucking fleet which are all in excellent condition and properly maintained by our professional team.</h4>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Pick-Up</p>
-          <p><i class="fa fa-caret-right" aria-hidden="true"></i> Delivery</p>
-
-
-
-
+            <h3> Our long experience is our absolute guarantee for the transfer of cargo with specific requirements, for the handling of which perfect coordination and excellent safety conditions are required.</h3>
+            <div class="right">
+              <h3>We undertake with responsibility the transfer of,</h3>
+              <div class="right">
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Vehicles</p>
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Heavy machinery</p>
+                <p><i class="fa fa-caret-right" aria-hidden="true"></i> Oversized and excess cargo</p>
+               
+              </div>
+            </div>
         </div><!-- /.col -->
       </div><!-- /.row -->
     </div><!-- /.container -->

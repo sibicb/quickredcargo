@@ -1059,7 +1059,7 @@ SERVICE PAGES
 }
 
 .widget .service-list li a.icon-transportation:before {
-  content: "\e043";
+  content: "\e043 ";
 }
 
 .widget .service-list li a.icon-trucking:before {

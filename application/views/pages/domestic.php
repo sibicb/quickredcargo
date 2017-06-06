@@ -37,6 +37,9 @@
               <li><a href="<?php site_url();?>international" class="icon-air">International</a></li>
               <li><a href="<?php site_url();?>land" class="icon-trucking">Land Transport</a></li>
               <li><a href="<?php site_url();?>warehouse" class="icon-transportation">Warehouse</a></li>
+              <li class=""><a href="<?php site_url();?>packing" class="icon-store">Packing and Crating</a></li>
+              <li class=""><a href="<?php site_url();?>special_cargo" class="icon-trucking">Special Cargo Transfer</a></li>
+              <li class=""><a href="<?php site_url();?>project_cargo" class="icon-marine">Project Cargo Consultation</a></li>
             </ul>
           </div><!-- /.widget -->
 
